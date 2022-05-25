@@ -54,7 +54,7 @@ def main():
     # getting the input data from the user
     
     
-    Pregnancies = st.text_input('Number of Pregnancies', placeholder='Please Enter Value between 0 to 20')
+    Pregnancies = st.text_input('Number of Pregnancies', placeholder='Please Enter Value between 0 to 10')
     Glucose = st.text_input('Glucose Level', placeholder='Please Enter Value between 20 to 200')
     BloodPressure = st.text_input('Blood Pressure value', placeholder='Please Enter Value between 20 to 150')
     SkinThickness = st.text_input('Skin Thickness value', placeholder='Please Enter Value between 10 to 100')
