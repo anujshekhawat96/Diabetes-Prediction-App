@@ -47,6 +47,7 @@ def diabetes_prediction(input_data):
 def main():
     
     
+    St.title('Team Bremner')
     # giving a title
     st.title('Diabetes Prediction Web App')
     
